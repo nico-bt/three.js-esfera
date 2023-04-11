@@ -15,3 +15,11 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.sub {
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  left: 40%;
+  font-size: 1.25rem;
+}
